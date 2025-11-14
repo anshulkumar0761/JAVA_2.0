@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JAVA_DSA.iml" filepath="$PROJECT_DIR$/JAVA_DSA.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lect1/Lect1.iml" filepath="$PROJECT_DIR$/Lect1/Lect1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lect2/Lect2.iml" filepath="$PROJECT_DIR$/Lect2/Lect2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lect2/src/Lect2.iml" filepath="$PROJECT_DIR$/Lect2/src/Lect2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lect3/Lect3.iml" filepath="$PROJECT_DIR$/Lect3/Lect3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lect1/Lect4/Lect4.iml" filepath="$PROJECT_DIR$/Lect1/Lect4/Lect4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lect5/Lect5.iml" filepath="$PROJECT_DIR$/Lect5/Lect5.iml" />
