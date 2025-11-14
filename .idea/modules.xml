@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JAVA_DSA.iml" filepath="$PROJECT_DIR$/JAVA_DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lect1/Lect1.iml" filepath="$PROJECT_DIR$/Lect1/Lect1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lect2/Lect2.iml" filepath="$PROJECT_DIR$/Lect2/Lect2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lect3/Lect3.iml" filepath="$PROJECT_DIR$/Lect3/Lect3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lect1/Lect4/Lect4.iml" filepath="$PROJECT_DIR$/Lect1/Lect4/Lect4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lect5/Lect5.iml" filepath="$PROJECT_DIR$/Lect5/Lect5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lect6/Lect6.iml" filepath="$PROJECT_DIR$/Lect6/Lect6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lect7/Lect7.iml" filepath="$PROJECT_DIR$/Lect7/Lect7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lect8/Lect8.iml" filepath="$PROJECT_DIR$/Lect8/Lect8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice Questions/Practice Questions.iml" filepath="$PROJECT_DIR$/Practice Questions/Practice Questions.iml" />
+    </modules>
+  </component>
+</project>
